@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <a href="shop.html" class="f-product-1" style="background-image: url(images/item-1.jpg);">
+                    <a href="shop.html" class="f-product-1" style="background-image: url( {{asset('client/images/item-1.jpg')}});">
                         <div class="desc">
                             <h2>Mẫu <br>cho <br>Nam</h2>
                         </div>
@@ -16,21 +16,21 @@
                 <div class="col-md-6">
                     <div class="row">
                         <div class="col-md-6">
-                            <a href="" class="f-product-2" style="background-image: url(images/item-2.jpg);">
+                            <a href="" class="f-product-2" style="background-image: url( {{asset('client/images/item-2.jpg')}});">
                                 <div class="desc">
                                     <h2> <br>Váy <br> Mới</h2>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-6">
-                            <a href="" class="f-product-2" style="background-image: url(images/item-4.jpg);">
+                            <a href="" class="f-product-2" style="background-image: url( {{asset('client/images/item-4.jpg')}});">
                                 <div class="desc">
                                     <h2>Sale <br>20% <br>off</h2>
                                 </div>
                             </a>
                         </div>
                         <div class="col-md-12">
-                            <a href="" class="f-product-2" style="background-image: url(images/item-3.jpg);">
+                            <a href="" class="f-product-2" style="background-image: url( {{asset('client/images/item-3.jpg')}});">
                                 <div class="desc">
                                     <h2>Giầy <br>cho <br>Nam</h2>
                                 </div>
@@ -42,7 +42,7 @@
         </div>
     </div>
 
-    <div id="colorlib-intro" class="colorlib-intro" style="background-image: url(images/cover-img-1.jpg);"
+    <div id="colorlib-intro" class="colorlib-intro" style="background-image: url( {{asset('client/images/cover-img-1.jp')}}g);"
      data-stellar-background-ratio="0.5">
         <div class="overlay"></div>
         <div class="container">
@@ -84,7 +84,7 @@
             <div class="row">
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-9.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-9.jpg')}});">
 
                             <div class="cart">
                                 <p>
@@ -103,7 +103,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-10.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-10.jpg')}});">
                         
                             <div class="cart">
                                 <p>
@@ -122,7 +122,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-11.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-11.jpg')}});">
                             
                             <div class="cart">
                                 <p>
@@ -141,7 +141,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-12.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-12.jpg')}});">
                             
                             <div class="cart">
                                 <p>
@@ -172,7 +172,7 @@
             <div class="row">
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-9.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-9.jpg')}});">
                             <p class="tag"><span class="new">New</span></p>
                             <div class="cart">
                                 <p>
@@ -191,7 +191,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-10.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-10.jpg')}});">
                             <p class="tag"><span class="new">New</span></p>
                             <div class="cart">
                                 <p>
@@ -210,7 +210,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-11.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-11.jpg')}});">
                             <p class="tag"><span class="new">New</span></p>
                             <div class="cart">
                                 <p>
@@ -229,7 +229,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-12.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-12.jpg')}});">
                             <p class="tag"><span class="new">New</span></p>
                             <div class="cart">
                                 <p>
@@ -248,7 +248,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-13.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-13.jpg')}});">
                             <p class="tag"><span class="new">New</span></p>
                             <div class="cart">
                                 <p>
@@ -267,7 +267,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-14.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-14.jpg')}});">
                             <p class="tag"><span class="new">New</span></p>
                             <div class="cart">
                                 <p>
@@ -284,7 +284,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-15.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-15.jpg')}});">
                             <p class="tag"><span class="new">New</span></p>
                             <div class="cart">
                                 <p>
@@ -303,7 +303,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <div class="product-entry">
-                        <div class="product-img" style="background-image: url(images/item-16.jpg);">
+                        <div class="product-img" style="background-image: url( {{asset('client/images/item-16.jpg')}});">
                             <p class="tag"><span class="new">New</span></p>
                             <div class="cart">
                                 <p>

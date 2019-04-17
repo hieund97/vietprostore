@@ -46,7 +46,7 @@
                     <div class="product-cart">
                         <div class="one-forth">
                             <div class="product-img">
-                                <img class="img-thumbnail cart-img" src="images/item-6.jpg">
+                                <img class="img-thumbnail cart-img" src="{{ asset ('client/images/item-6.jpg') }}">
                             </div>
                             <div class="detail-buy">
                                 <h4>Mã : SP01</h4>
@@ -77,7 +77,7 @@
                     <div class="product-cart">
                         <div class="one-forth">
                             <div class="product-img">
-                                <img class="img-thumbnail cart-img" src="images/item-6.jpg">
+                                <img class="img-thumbnail cart-img" src="{{ asset ('client/images/item-6.jpg') }}">
                             </div>
                             <div class="detail-buy">
                                 <h4>Mã : SP01</h4>
